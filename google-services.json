@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "683863232350",
+    "firebase_url": "https://durbhas-45c47.firebaseio.com",
+    "project_id": "durbhas-45c47",
+    "storage_bucket": "durbhas-45c47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683863232350:android:04466fc21d6c3684",
+        "android_client_info": {
+          "package_name": "com.example.smartbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683863232350-a5p819o1eoe04s898q2mkn65onb8tli1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVs5js6VjdiAgEb93Du_yWER5jn--Ik_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
