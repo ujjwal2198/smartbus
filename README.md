@@ -14,7 +14,7 @@ Features---------------------------------------
  
 Installation---------------------------------------
 
-		Clone the repository: https://github.com/yourusername/smart-bus.git
+		Clone the repository
 		Deploy the app on your local development environment.
 Usage
 
